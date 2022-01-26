@@ -12,3 +12,5 @@ P^QvR is ambiguous
 # Discrete Structures Notes 3
 
 iff -> If and Only If
+
+If a Logic formula is equivalent to T, it's a tautology
