@@ -7,3 +7,8 @@ P^(Q^R) = (P^R)^R - So it is not ambiguous to say to write P^Q^R
 P^QvR is ambiguous
 
 =>  <--implication operator
+
+
+# Discrete Structures Notes 3
+
+iff -> If and Only If
