@@ -47,4 +47,8 @@ Symbols to Know:
 - - - Minus(?) - Takes away all elements of the first set that are in the second set
 - ⊕ - Disjoint - Adds up the elements that are not in both sets (opposite of intersection)
 - U - Universal Set - 
-- 
+
+# Discrete Structures Notes 6
+AU(B∩C) = (AuB)∩(AuC) <-- Distributive Property
+
+~(P∧Q) = (~P)∨(~Q) <-- De Morgan's Law
