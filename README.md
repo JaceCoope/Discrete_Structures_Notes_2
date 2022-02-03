@@ -44,7 +44,7 @@ Power Set: A Power Set is a set containg all possible subsets, including the emp
 Symbols to Know:
 - ∪ - Union - Joins two sets together. Elements don't repeat
 - ∩ - Intersection - Only takes into account the elements that are in both sets
-- - - Minus(?) - Takes away all elements of the first set that are in the second set
+- ー - Minus(?) - Takes away all elements of the first set that are in the second set
 - ⊕ - Disjoint - Adds up the elements that are not in both sets (opposite of intersection)
 - U - Universal Set - 
 
